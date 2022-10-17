@@ -88,7 +88,7 @@ npm run dev
 
 <h3>
   <a href="https://github.com/SaluevS">
-    <img alt="Saluev" src="https://img.shields.io/badge/-Ibragim_Saluev-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Saluev" src="https://img.shields.io/badge/-Adam_Saluev-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </h3>
 
@@ -96,31 +96,12 @@ npm run dev
 
 ### В этом проекте я выполнял следующие задачи:
 
-- [x] Создать react приложение
-- [x] Организовать роутинг-маршрутизация внутри проекта
-- [x] Сверстал Главную страницу сайта
-- [x] Сверстал Админ страницу сайта
-- [x] Сделал периспользуемый компонент выподающего меню
-- [x] Сделал страницу Сборки ПК
-- [x] Создание и контроль веток git
-
----
-
-Создал реакт-приложение</br>
-Из проекта удалил лишние файлы и создал нужные для начала работы папки и компоненты <br>
-Установил следующие библиотеки в зависимости:
-
-- react-redux
-- redux
-- redux-logger
-- react-router-dom
-- redux-toolkit
-- prettier
-- framer-motion
-- classnames
-- sass
-- react-loader-spinner
-- prop-types
+- [x] Сверстал страницу AboutPage
+- [x] Настроил навигацию
+- [x] Сверстал страницу AboutUs
+- [x] Возможность оставлять комментарий
+- [x] Сделал магазин
+- [x] Сверстал страницу FAQ
 
 ---
 
