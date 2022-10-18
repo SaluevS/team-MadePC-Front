@@ -88,7 +88,7 @@ npm run dev
 
 <h3>
   <a href="https://github.com/SaluevS">
-    <img alt="Saluev" src="https://img.shields.io/badge/-Adam_Saluev-black?style=for-the-badge&logo=github&logoColor=white" />
+    <img alt="Saluev" src="https://img.shields.io/badge/-Ibragim_Saluev-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </h3>
 
